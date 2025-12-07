@@ -7,7 +7,7 @@ Currently these include:
 All of these are programs are built for Ubuntu 24.04.x LTS. To be able to run, get these packages
 
 ```
-libllvmspirvlib-19.1 llvm-19 libclang1-19 libclang-cpp19 libtinfo6 libzstd1
+libllvmspirvlib19.1 llvm-19 libclang1-19 libclang-cpp19 libtinfo6 libzstd1
 ```
 
 ## Building
